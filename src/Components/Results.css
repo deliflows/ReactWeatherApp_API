@@ -1,0 +1,4 @@
+.theCardArea{
+    display: flex;
+    flex-wrap: wrap;
+}

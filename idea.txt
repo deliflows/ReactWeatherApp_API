@@ -1,0 +1,16 @@
+1. Create new file
+2. cd into into it
+3. Install Dependencies
+4. Clean up the project.
+
+5. Get the react app and running.
+6. Add the component files and make sure they all respond.
+7. We need to get the user answer from the search bar component.
+8. Connect to the API
+9. Pass the API data to the Weathercard Component
+10. Add material UI
+
+App
+-Searchbar
+-Weathercards
+    -Weathercard
